@@ -11,7 +11,4 @@ function titleCase (str) {
 }
 
 
-let title = "hello world";
-console.log(titleCase (title));
-titlel = "sHoRt AnD sToUt";
-console.log(titleCase (titlel));  
+console.log(titleCase("I'm a little tea pot"));
